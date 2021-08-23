@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    { 
+      "id": 1,
+      "text": "Components", "reminder": true 
+    },
+		{ 
+      "id": 2, 
+      "text": "Props", 
+      "reminder": true 
+    },
+		{
+      "id": 3, 
+      "text": "Hooks", 
+      "reminder": false }
+  ]
+}
